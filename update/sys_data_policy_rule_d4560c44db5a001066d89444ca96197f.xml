@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>status</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-07 07:47:20</sys_created_on>
+        <sys_data_policy display_value="Sets the Status field to mandatory">94560c44db5a001066d89444ca96197d</sys_data_policy>
+        <sys_id>d4560c44db5a001066d89444ca96197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>status</sys_name>
+        <sys_package display_value="Booth Management" source="x_295671_booth_man">04850c04db5a001066d89444ca9619a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Booth Management">04850c04db5a001066d89444ca9619a2</sys_scope>
+        <sys_update_name>sys_data_policy_rule_d4560c44db5a001066d89444ca96197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-07 07:47:20</sys_updated_on>
+        <table>x_295671_booth_man_booth</table>
+    </sys_data_policy_rule>
+</record_update>
